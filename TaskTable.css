@@ -1,0 +1,26 @@
+/* TaskTable.css */
+.table {
+  margin-top: 20px;
+}
+
+.table thead th {
+  text-align: center; /* Center-align the headers */
+}
+
+.table tbody td {
+  text-align: center; /* Center-align the table data */
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f1f1; /* Add hover effect */
+}
+
+.btn-danger {
+  background-color: #ef0d0d;
+  border-color: #ef0d0d;
+}
+
+.btn-danger:hover {
+  background-color: #c00;
+  border-color: #c00;
+}
